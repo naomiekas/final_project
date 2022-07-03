@@ -1,5 +1,5 @@
 ---
-title: "Showcase your inner data scientist"
+title: "Showcase your Inner Data Scientist"
 output: 
   html_document: 
     css: project.css
@@ -26,7 +26,7 @@ More details below.
 # May be too long, but please do read
 
 The final project for this class will consist of analysis on a dataset of your own choosing.
-The dataset may already exist, or you may collect your own data using a survey or by conducting an experiment.
+The dataset should already exist and not be data from your lab or that you have worked with before. 
 You can choose the data based on your interests or based on work in other courses or research projects.
 The goal of this project is for you to demonstrate proficiency in the techniques we have covered in this class (and beyond, if you like) and apply them to a novel dataset in a meaningful way.
 
@@ -77,9 +77,9 @@ But you might find something interesting there:
 
 ## Deliverables
 
-1.  Proposal - due [ENTER DUE DATE]
-2.  Presentation - due [ENTER DUE DATE]
-3.  Executive summary - due [ENTER DUE DATE]
+1.  Proposal - due [Monday July 18th]
+2.  Presentation - due [Thursday July 28th]
+3.  Executive summary - due [Friday July 29th @ start of class]
 
 ### Proposal
 
@@ -113,8 +113,7 @@ Each section should be no more than 1 page (excluding figures).
 You can check a print preview to confirm length.
 
 The grading scheme for the project proposal is as follows.
-Note that after you receive feedback for your proposal you can improve it based on the feedback and re-submit it.
-If you re-submit, your final score for the proposal will be the average of two scores you receive (first and second submission).
+
 
 +-----------------------------------------------------------+----------+
 | Total                                                     | 10 pts   |
@@ -130,20 +129,19 @@ If you re-submit, your final score for the proposal will be the average of two s
 
 ### Presentation
 
-5 minutes maximum, and each team member should say something substantial.
-You can either present live during your workshop or pre-record and submit your video to be played during the workshop.
+15 minutes maximum, and each team member should say something substantial.
 
 Prepare a slide deck using the template in your repo.
 This template uses a package called `xaringan`, and allows you to make presentation slides using R Markdown syntax.
-There isn't a limit to how many slides you can use, just a time limit (5 minutes total).
+There isn't a limit to how many slides you can use, just a time limit (15 minutes total).
 Each team member should get a chance to speak during the presentation.
 Your presentation should not just be an account of everything you tried ("then we did this, then we did this, etc."), instead it should convey what choices you made, and why, and what you found.
 
 Before you finalize your presentation, make sure your chunks are turned off with `echo = FALSE`.
 
-Presentations will take place during the last workshop of the semester.
+Presentations will take place during the last few workshop of the semester.
 You can choose to do your presentation live or pre-record it.
-During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations.
+You will watch presentations from other teams and provide feedback in the form of peer evaluations.
 The presentation line-up will be generated randomly.
 
 The grading scheme for the presentation is as follows:
@@ -189,7 +187,7 @@ Style and format does count for this assignment, so please take the time to make
 
 -   You're working in the same repo as your teammates now, so merge conflicts will happen, issues will arise, and that's fine Commit and push often, and ask questions when stuck.
 
--   Review the marking guidelines below and ask questions if any of the expectations are unclear.
+-   Review the grading guidelines below and ask questions if any of the expectations are unclear.
 
 -   Make sure each team member is contributing, both in terms of quality and quantity of contribution (we will be reviewing commits from different team members).
 
@@ -207,7 +205,7 @@ Style and format does count for this assignment, so please take the time to make
     All team members are expected to contribute equally to the completion of this assignment and team evaluations will be given at its completion - anyone judged to not have sufficient contributed to the final product will have their grade penalized.
     While different teams members may have different backgrounds and abilities, it is the responsibility of every team member to understand how and why all code and approaches in the assignment works.
 
-## Marking
+## Grading
 
 +----------------------------------------------------------+-----------+
 | Total                                                    | 100 pts   |
@@ -246,10 +244,10 @@ A general breakdown of scoring is as follows:
 
 You will be asked to fill out a survey where you rate the contribution and teamwork of each team member out of 10 points.
 You will additionally report a contribution percentage for each team member.
-Filling out the survey is a prerequisite for getting credit on the team member evaluation.If you are suggesting that an individual did less than 20% of the work, please provide some explanation.
-If any individual gets an average peer score indicating that they did less than 10% of the work, this person will receive half the grade of the rest of the group.
+Filling out the survey is a prerequisite for getting credit on the team member evaluation. If you are suggesting that an individual did less than 25% of the work, please provide some explanation.
+If any individual gets an average peer score indicating that they did less than 15% of the work, this person will receive half the grade of the rest of the group.
 
 ### Late work policy
 
--   There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.
--   The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline as well as as soon as the completed work is submitted on GitHub.
+-   There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it.
+
